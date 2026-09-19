@@ -30,3 +30,6 @@ console.log(Math.cbrt(27));
 
 //Math.abs
 console.log(Math.abs(-8));
+
+//Math.pow
+console.log(Math);
